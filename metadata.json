@@ -1,0 +1,6 @@
+{
+  "name": "MusicLaunch",
+  "description": "YouTube Strategist & Music SEO Expert app for songwriters and musicians: SEO titles, viral descriptions, ranking tags, thumbnail concepts, and social teasers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
